@@ -1,0 +1,57 @@
+STEP translation to Solid Edge
+Date: Thursday,August 02,2018 03:12PM
+Source File: C:\Users\mqm\Desktop\framingModels\2-Finger_85_Adaptive_Gripper-opened_20171116.STEP
+Author: Unknown
+Organization: Unknown
+Source System: SolidWorks 2013
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+Operating System: Windows 7 Professional Service Pack 1
+Installed Memory: 9.87 GB
+
+Software Information
+Parasolid Version: 29.0.122
+PSBodyShop Version: 29.0.68
+Step Adapter Version: 2.0.152
+Solid Edge Version: 109.00.00.111 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\mqm\Desktop\framingModels
+Import Enable Default Output Path: On
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\mqm\Desktop\framingModels\2-Finger_85_Adaptive_Gripper-opened_20171116.asm
+|--+Created SE Part File C:\Users\mqm\Desktop\framingModels\Group1^2-Finger_85_Adaptive_Gripper.par
+|--+Created SE Part File C:\Users\mqm\Desktop\framingModels\Group2^2-Finger_85_Adaptive_Gripper.par
+|--+Reusing File C:\Users\mqm\Desktop\framingModels\Group2^2-Finger_85_Adaptive_Gripper.par
+|--+Created SE Part File C:\Users\mqm\Desktop\framingModels\Group3^2-Finger_85_Adaptive_Gripper.par
+|--+Reusing File C:\Users\mqm\Desktop\framingModels\Group3^2-Finger_85_Adaptive_Gripper.par
+|--+Created SE Part File C:\Users\mqm\Desktop\framingModels\Group4^2-Finger_85_Adaptive_Gripper.par
+|--+Reusing File C:\Users\mqm\Desktop\framingModels\Group4^2-Finger_85_Adaptive_Gripper.par
+|--+Created SE Part File C:\Users\mqm\Desktop\framingModels\Group5^2-Finger_85_Adaptive_Gripper.par
+|--+Reusing File C:\Users\mqm\Desktop\framingModels\Group5^2-Finger_85_Adaptive_Gripper.par
+|--+Created SE Part File C:\Users\mqm\Desktop\framingModels\Group6^2-Finger_85_Adaptive_Gripper.par
+|--+Created SE Part File C:\Users\mqm\Desktop\framingModels\Group7^2-Finger_85_Adaptive_Gripper.par
++Total Parts: 24
++Assemblies: 0
++Solid Bodies: 24
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 04
