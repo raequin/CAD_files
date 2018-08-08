@@ -1,5 +1,31 @@
-			 Translator Log
-			8/3/2018@10:08 AM
+Solid Edge Translation to STL
+Date: Wednesday,August 08,2018 10:13AM
+Source File:C:\Users\mqm\Desktop\CAD_files\1x4_version\wall_plain.asm
+Output File: C:\Users\mqm\Desktop\CAD_files\1x4_version\wall_plain.stl
+Source System: SOLID EDGE
 
-Input File Name:  C:\Users\mqm\Desktop\framingModels\wall_plain.asm
-Output File Name: C:\Users\mqm\Desktop\framingModels\wall_plain.stl
+Hardware:
+Processor: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+Operating System: Windows 7 Professional Service Pack 1
+Memory: 9.87 GB
+
+Software Information:
+Parasolid Version: 30.1.256
+Bodyshop Version: 30.1.94
+Solid Edge Version: 219.00.00.091 x64
+
+STL Export Options:
+Output File Format:BINARY
+Export Displayed Parts:Off
+structureOption: Monolithic
+Export Units:Inch
+Export Tolerance Value:0.050000
+Export Tolerance Type:Custom
+Export Surface Plane Angle Value:0.523599
+
+Translation progress:
+Phase 1 of 2 Fetching Parasolid information...
+Phase 2 of 2 Translating Parasolid to foreign data types...
+Number of STL file Created : 1
+Translation process completed
+Time required to translate:00 : 00 : 00
